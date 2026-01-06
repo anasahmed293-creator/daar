@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lighthearted-sable-02a950.netlify.app/sitemap.xml
